@@ -1,4 +1,7 @@
 package com.hackerrank.java.welcometojava;
 
-public class Solution {
+class Solution {
+    String result() {
+        return "Hello, World.\nHello, Java.";
+    }
 }
